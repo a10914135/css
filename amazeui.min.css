@@ -8599,7 +8599,7 @@ label.am-checkbox, label.am-radio {
 	font-size: 18px;
 	cursor: pointer;
 	border-radius:50%;
-	background:url(../../images/xzh.png) no-repeat center center;
+	background:url(../images/xzh.png) no-repeat center center;
 }
 .am-checkbox .am-icon-checked, .am-checkbox .am-icon-unchecked, .am-checkbox-inline .am-icon-checked, .am-checkbox-inline .am-icon-unchecked, .am-radio .am-icon-checked, .am-radio .am-icon-unchecked, .am-radio-inline .am-icon-checked, .am-radio-inline .am-icon-unchecked {
 	position: absolute;
@@ -8626,16 +8626,16 @@ label.am-checkbox, label.am-radio {
 	opacity: 0
 }
 .am-checkbox .am-icon-checked:before, .am-checkbox-inline .am-icon-checked:before {
-	background:url(../../images/xz.png) no-repeat center center;
+	background:url(../images/xz.png) no-repeat center center;
 }
 .am-checkbox .am-icon-unchecked:before, .am-checkbox-inline .am-icon-unchecked:before {
-	background:url(../../images/xzh.png) no-repeat center center;
+	background:url(../images/xzh.png) no-repeat center center;
 }
 .am-radio .am-icon-checked:before, .am-radio-inline .am-icon-checked:before {
-	background:url(../../images/xz.png) no-repeat center center;
+	background:url(../images/xz.png) no-repeat center center;
 }
 .am-radio .am-icon-unchecked:before, .am-radio-inline .am-icon-unchecked:before {
-	background:url(../../images/xzh.png) no-repeat center center;
+	background:url(../images/xzh.png) no-repeat center center;
 }
 .am-ucheck-checkbox, .am-ucheck-radio {
 	position: absolute;
@@ -8654,11 +8654,11 @@ label.am-checkbox, label.am-radio {
 }
 .am-ucheck-checkbox:checked+.am-ucheck-icons, .am-ucheck-radio:checked+.am-ucheck-icons {
 	color: #dd137b;
-	 background:url(../../images/xz.png) no-repeat center center;
+	 background:url(../images/xz.png) no-repeat center center;
 }
 .am-ucheck-checkbox:checked+.am-ucheck-icons .am-icon-unchecked, .am-ucheck-radio:checked+.am-ucheck-icons .am-icon-unchecked {
 	opacity: 0;
-	 background:url(../../images/xzh.png) no-repeat center center;
+	 background:url(../images/xzh.png) no-repeat center center;
 }
 .am-ucheck-checkbox:checked+.am-ucheck-icons .am-icon-checked, .am-ucheck-radio:checked+.am-ucheck-icons .am-icon-checked {
 	opacity: 1
@@ -8666,7 +8666,7 @@ label.am-checkbox, label.am-radio {
 .am-ucheck-checkbox:disabled+.am-ucheck-icons, .am-ucheck-radio:disabled+.am-ucheck-icons {
 	cursor: default;
 	color: #d8d8d8;
-	background:url(../../images/xzh.png) no-repeat center center;
+	background:url(../images/xzh.png) no-repeat center center;
 }
 .am-ucheck-checkbox:disabled:checked+.am-ucheck-icons .am-icon-unchecked, .am-ucheck-radio:disabled:checked+.am-ucheck-icons .am-icon-unchecked {
 	opacity: 0
@@ -8674,7 +8674,7 @@ label.am-checkbox, label.am-radio {
 .am-ucheck-checkbox:disabled:checked+.am-ucheck-icons .am-icon-checked, .am-ucheck-radio:disabled:checked+.am-ucheck-icons .am-icon-checked {
 	opacity: 1;
 	color:#d8d8d8;
-	background:url(../../images/xzh.png) no-repeat center center;
+	background:url(../images/xzh.png) no-repeat center center;
 }
 .am-checkbox-inline.am-secondary .am-ucheck-checkbox:hover:not(.am-nohover):not(:disabled)+.am-ucheck-icons, .am-checkbox-inline.am-secondary .am-ucheck-radio:hover:not(.am-nohover):not(:disabled)+.am-ucheck-icons, .am-checkbox.am-secondary .am-ucheck-checkbox:hover:not(.am-nohover):not(:disabled)+.am-ucheck-icons, .am-checkbox.am-secondary .am-ucheck-radio:hover:not(.am-nohover):not(:disabled)+.am-ucheck-icons, .am-radio-inline.am-secondary .am-ucheck-checkbox:hover:not(.am-nohover):not(:disabled)+.am-ucheck-icons, .am-radio-inline.am-secondary .am-ucheck-radio:hover:not(.am-nohover):not(:disabled)+.am-ucheck-icons, .am-radio.am-secondary .am-ucheck-checkbox:hover:not(.am-nohover):not(:disabled)+.am-ucheck-icons, .am-radio.am-secondary .am-ucheck-radio:hover:not(.am-nohover):not(:disabled)+.am-ucheck-icons {
 	color: #dd137b;
